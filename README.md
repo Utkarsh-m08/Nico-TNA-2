@@ -27,13 +27,15 @@ Functionality:
 LOGIN PAGE
 
 
-![GP PPT - JAYA-22](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/50f01330-8ad0-4194-88b9-f3256aac5d55)
+![GP PPT - JAYA-22](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/7953bcaf-e0f4-4a3f-9c6b-38d0502bde68)
+
 
 
 HOME PAGE 
 
 
-![GP PPT - JAYA-23](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/42575e21-3f1c-4382-b11b-435d99299a8e)
+![GP PPT - JAYA-23](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/3f1d60ef-2752-4f47-9b52-623514bb5605)
+
 
 
  
@@ -55,7 +57,8 @@ On swiping the left side of the dashboard, we can see the navigation bar, which 
 PERSONAL TO DO LIST 
 
 
-![GP PPT - JAYA-24](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/58796721-2133-4021-af0e-2eb4c68649a4)
+![GP PPT - JAYA-24](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/579132c6-0f61-4e8a-94bb-84a2934ce4dc)
+
 
  
 
@@ -78,7 +81,7 @@ The above image shows how you can add personal To- do list. By clicking on the �
 PP/ FIT SAMPLE STATUS
 
 
-![GP PPT - JAYA-25](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/42297633-5406-47b9-b26a-34afc52fd154)
+![GP PPT - JAYA-25](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/0d232cb4-70eb-457d-97b8-6237d2a91dd3)
 
  
 
@@ -97,7 +100,8 @@ In the same way vendor can also update that revised samples of PP/ Fit or revise
 
 
 ADD STYLES 
-![GP PPT - JAYA-26](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/692b29f4-2722-46be-a82a-58be927d7570)
+
+![GP PPT - JAYA-26](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/4cf059cc-c1b6-435e-90cf-c871f391256a)
 
  
 
@@ -120,8 +124,9 @@ For adding a style, click on the ‘+’ button, a popup will appear wherein you
 
 DELETE/ SEARCH/ APPROVE STYLES
 
+![GP PPT - JAYA-27](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/7cf49ba7-9bd9-45b1-9531-7e6a6a1a8b57)
 
- ![GP PPT - JAYA-27](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/1f338343-57fe-497f-be46-ea9760f7d0ab)
+
 
 
 
@@ -143,7 +148,8 @@ The user can search any existing style and click on the approve and delete butto
 COMMON DATABASE 
 
 
- ![GP PPT - JAYA-30](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/af782ebe-8e7d-4b7c-b774-75be858c117e)
+![GP PPT - JAYA-30](https://github.com/Utkarsh-m08/Nico-TNA-2/assets/139049170/2fed9fe1-7aef-482a-9a8e-e4f1ce4ada7a)
+
 
 
 
