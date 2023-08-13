@@ -2,6 +2,8 @@ MOBILE APP FOR
 STREAMLINING TNA MANAGEMENT
 
 
+
+
 This project encapsulates my efforts in creating a meaningful application that honors my elder sister’s (4th year) graduation project and  showcases my passion for coding and design.
 
 BACKGROUND
