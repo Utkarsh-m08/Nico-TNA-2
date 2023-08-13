@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038252094440",
+    "project_id": "nicotna-f4fb1",
+    "storage_bucket": "nicotna-f4fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038252094440:android:928e2db562ab132659aa5d",
+        "android_client_info": {
+          "package_name": "com.example.nico_tna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038252094440-7rp5avdb5oi54ifio9cgpbojbqg4h4gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVXrIOQvfyiNQAPWSBMJLPFUh-KKj8OLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038252094440-7rp5avdb5oi54ifio9cgpbojbqg4h4gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
